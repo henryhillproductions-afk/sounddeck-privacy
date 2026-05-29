@@ -6,8 +6,8 @@ description: Privacy policy for the SoundDeck Android app — what data we colle
 
 # SoundDeck — Privacy Policy
 
-**Last updated:** 2026-05-22
-**Effective for:** SoundDeck Android app, version 1.0.0 and later.
+**Last updated:** 2026-05-29
+**Effective for:** SoundDeck Android app, version 0.9.0 and later.
 
 This policy describes what data the SoundDeck mobile companion app collects,
 why it collects it, and what your rights are under the EU General Data
